@@ -1,4 +1,4 @@
-# Recommender-system-for-touristic-Athens-based-on-reviews-and-emotions
+# Recommender system for touristic Athens based on reviews and emotions
 
 The next figure shows a preview of the website.
 
